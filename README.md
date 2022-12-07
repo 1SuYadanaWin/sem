@@ -4,3 +4,6 @@ Git
 [![LICENSE](https://img.shields.io/github/license/<1SuYadanaWin>/sem.svg?style=flat-square)](https://github.com/<github-1SuYadanaWin>/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/<1SuYadanaWin>/sem/all.svg?style=flat-square)](https://github.com/<1SuYadanaWin>/sem/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/1SuYadanaWin/<sem>/<action name taken from main.yml>/<branch>?style=flat-square)
