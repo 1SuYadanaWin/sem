@@ -6,4 +6,4 @@ Git
 [![Releases](https://img.shields.io/github/release/<1SuYadanaWin>/sem/all.svg?style=flat-square)](https://github.com/<1SuYadanaWin>/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/1SuYadanaWin/<sem>/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/1SuYadanaWin/sem/Hello world action/<branch>?style=flat-square)
